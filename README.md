@@ -8,4 +8,4 @@ Educación:
              Pontificia Universidad Católica de Chile
 
    2016-2020 Licenciatura en Física
-             Pontificia universidad Católica de Chile
+             Pontificia Universidad Católica de Chile
