@@ -1,6 +1,9 @@
 Nombre: 
+
    Isidora Sofía Muñoz Hernández
+   
 Educación: 
+
    2021-2023 Magíster en Física Médica
              Pontificia Universidad Católica de Chile
 
