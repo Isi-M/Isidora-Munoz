@@ -2,7 +2,7 @@ Name:
 
    Isidora Sofía Muñoz Hernández
    
-Degrees: 
+Education: 
 
    2021-2023 M.Sc in Medical physics,
              Pontificia Universidad Católica de Chile
